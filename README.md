@@ -1,9 +1,15 @@
+<p align="center">
+  this person
+</p>
+<p align="center">
+  
+  ![noFilter](https://github.com/user-attachments/assets/e9898fc4-5efc-4bed-b2b6-56c3ef299fe9)
+</p>
 
+<p align="center">
+   is the most coolest person you would ever meet
+</p>
 
-
-
-
-
-‎ ‎ ‎ ‎ <img width="934" height="540" alt="image" src="https://github.com/user-attachments/assets/591b96c7-1023-48e6-b6f4-9f63a6917b36" />
-
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ you gotta be frigging kidding me
+<p align="center">
+  seriously
+</p>
