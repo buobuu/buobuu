@@ -20,6 +20,6 @@ _today i woke up refreshed. breakfast was ok and working was fine. my boss was b
   
    <div align="left">
 
-  _i woke up tired, again. i was late to work so i got chewed out by my boss. i was hungry until night, where i ate some leftovers.
+  _i woke up tired, again. i was late to work so i got chewed out by my boss. i was hungry until night, where i ate some leftovers._
 
   
